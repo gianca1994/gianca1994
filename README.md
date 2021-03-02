@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Header](https://raw.githubusercontent.com/gianca1994/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+
 ---
 
 <p>
@@ -12,10 +15,11 @@
 
 <p>
   <img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
