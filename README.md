@@ -12,10 +12,10 @@
 </br><h1 align="center">Repositories</h1>
 
 <p align="center">
-  <a href="https://github.com/gianca1994/github-readme-stats">
+  <a href="https://github.com/gianca1994/computacion-2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
-  <a href="https://github.com/gianca1994/convoychat">
+  <a href="https://github.com/gianca1994/programacion-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=programacion-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
   <a href="https://github.com/gianca1994/github-readme-stats">
@@ -24,7 +24,7 @@
   <a href="https://github.com/gianca1994/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=Final-Computacion1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
-  <a href="https://github.com/gianca1994/github-readme-stats">
+  <a href="https://github.com/gianca1994/computacion-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
   <a href="https://github.com/gianca1994/convoychat">
