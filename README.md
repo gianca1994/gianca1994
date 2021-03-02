@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/gianca1994/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-
----
+----
 
 <p>
   <img align="center"src="https://github-readme-stats.vercel.app/api?username=gianca1994&show_icons=true&hide=stars,contribs&theme=vision-friendly-dark" alt="gianca1994" />
