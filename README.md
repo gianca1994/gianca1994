@@ -8,26 +8,30 @@
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/gianca1994/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+  <a href="https://github.com/gianca1994/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=programacion-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+  <a href="https://github.com/gianca1994/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=curso-java&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+  <a href="https://github.com/gianca1994/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=Final-Computacion1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+  <a href="https://github.com/gianca1994/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+  <a href="https://github.com/gianca1994/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=SystemDesing-&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
 
-<a href="https://github.com/gianca1994/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/gianca1994/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=programacion-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/gianca1994/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=curso-java&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/gianca1994/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=Final-Computacion1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/gianca1994/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/gianca1994/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=SystemDesing-&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianca1994&show_icons=true&theme=vision-friendly-dark)
 
 </br><h1 align="center">Learning</h1>
 
@@ -40,4 +44,4 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianca1994&show_icons=true&theme=vision-friendly-dark)
+
