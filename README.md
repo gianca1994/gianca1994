@@ -7,8 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&layout=compact&hide=shell,css&theme=vision-friendly-dark" alt="gianca1994" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianca1994&hide=issues&show_icons=true&theme=vision-friendly-dark)
-
 
 </br><h1 align="center">Learning</h1>
 
