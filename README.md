@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianca1994)](https://github.com/gianca1994/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=github-readme-stats)](https://github.com/gianca1994/github-readme-stats)
+
 <!--
 **gianca1994/gianca1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
