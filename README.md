@@ -9,6 +9,8 @@
 </p>
 
 
+</br><h1 align="center">Repositories</h1>
+
 <p align="center">
   <a href="https://github.com/gianca1994/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
