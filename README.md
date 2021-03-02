@@ -20,8 +20,3 @@
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
-
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=gianca1994&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
