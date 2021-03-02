@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianca1994&show_icons=true&theme=blue-green)
+
 <!--
 **gianca1994/gianca1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
