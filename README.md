@@ -6,11 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&layout=compact&hide=shell,css&theme=vision-friendly-dark" alt="gianca1994" />
 </p>
 
-****
-</br></br>
-
-
-<h1 align="center">Learning</h1>
+</br><h1 align="center">Learning</h1>
 
 <p>
   <img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
