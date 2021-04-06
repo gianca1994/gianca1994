@@ -35,7 +35,6 @@
   </a>
 </p>
 
-
 </br><h2 align="center">Learning</h2>
 
 <p align="center">
@@ -58,5 +57,5 @@
 </p></br>
 
 <p align="center">
-<img src="https://badges.pufler.dev/visitors/gianca1994/gianca1994" alt="gianca1994" />
+<img src="https://badges.pufler.dev/visits/gianca1994/gianca1994" alt="gianca1994" />
 </p></br>
