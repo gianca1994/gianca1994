@@ -56,6 +56,7 @@
 	<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 	<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p></br>
+
 <p align="center">
-<img src="https://badges.pufler.dev/visits/gianca1994/gianca1994" alt="gianca1994" />
-</p></br></br>
+<img src="https://badges.pufler.dev/visitors/gianca1994/gianca1994" alt="gianca1994" />
+</p></br>
