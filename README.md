@@ -33,6 +33,9 @@
   <a href="https://github.com/gianca1994/SystemDesing-">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=SystemDesing-&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
+<a href="https://github.com/gianca1994/umcredits">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=umcredits&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
 </p>
 
 </br><h2 align="center">Learning</h2>
