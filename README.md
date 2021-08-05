@@ -30,8 +30,8 @@
   <a href="https://github.com/gianca1994/computacion-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
-  <a href="https://github.com/gianca1994/SystemDesing-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=SystemDesing-&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/gianca1994/help-chat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=help-chat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
 <a href="https://github.com/gianca1994/umcredits">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=umcredits&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
