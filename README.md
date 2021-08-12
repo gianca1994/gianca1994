@@ -36,6 +36,12 @@
 <a href="https://github.com/gianca1994/umcredits">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=umcredits&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
+<a href="https://github.com/gianca1994/machine-learning">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=machine-learning&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+  </a>
+<a href="https://github.com/gianca1994/infram">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=infram&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+  </a>
 </p>
 
 </br><h2 align="center">Learning</h2>
