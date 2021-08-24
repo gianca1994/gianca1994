@@ -24,8 +24,8 @@
   <a href="https://github.com/gianca1994/software-engineering">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=software-engineering&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
-  <a href="https://github.com/gianca1994/Final-Computacion1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=Final-Computacion1&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+  <a href="https://github.com/gianca1994/blackjack-js">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=blackjack-js&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/computacion-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-1&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
