@@ -97,7 +97,3 @@
 		<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 	</p></br>
 </details>
-
-<p align="center">
-<img src="https://badges.pufler.dev/visits/gianca1994/gianca1994" alt="gianca1994" />
-</p>
