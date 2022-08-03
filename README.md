@@ -12,7 +12,7 @@
 </br><h1 align="center">Repositories</h1>
 
 <p align="center">
-  <a href="https://github.com/gianca1994/aoweb-backend">
+  <a href="https://github.com/AoWeb-Spring-React/aoweb-backend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=aoweb-backend&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/help-chat">
