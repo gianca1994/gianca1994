@@ -4,7 +4,7 @@
 </br><h1 align="center">Stats</h1>
 
 <p align="center">
-  
+    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&langs_count=9&layout=compact&hide=css,html,makefile,jupyter%20Notebook&theme=vision-friendly-dark" alt="gianca1994" />
   <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="gianca1994" />
 </p>
 
