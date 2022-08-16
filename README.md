@@ -1,7 +1,12 @@
 
-<h1 align="center">Hi there 👋 welcome</h1>
+<h3 align="center">Hi there 👋 welcome</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/giancarlo-galvarini-a41764210" target="_blank">LinkedIn</a> -
+    <a href="gianca9405@gmail.com" target="_blank">Gmail</a> -
+    <a href="https://www.instagram.com/galvarinig" target="_blank">Instagram</a>
+</p>
   
-</br><h1 align="center">Stats</h1>
+<h1 align="center">Stats</h1>
 
 <p align="center">
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&langs_count=9&layout=compact&hide=css,html,makefile,jupyter%20Notebook&theme=vision-friendly-dark" alt="gianca1994" />
