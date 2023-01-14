@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋 welcome</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/giancarlo-galvarini-hauser-a41764210/" target="_blank">LinkedIn</a> -
+    <a href="https://www.linkedin.com/in/giancarlo-galvarini" target="_blank">LinkedIn</a> -
     <a href="gianca9405@gmail.com" target="_blank">Gmail</a> -
     <a href="https://www.instagram.com/galvarinig" target="_blank">Instagram</a>
 </p>
@@ -11,7 +11,7 @@
 <h1 align="center">Stats</h1>
 
 <p align="center">
-    <img align="center" height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gianca1994&langs_count=9&layout=compact&hide=css,html,makefile,jupyter%20Notebook&theme=vision-friendly-dark" alt="gianca1994" />
+    <img align="center" height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gianca1994&langs_count=2&layout=compact&hide=css,html,makefile,jupyter%20Notebook&theme=vision-friendly-dark" alt="gianca1994" />
   <img align="center" height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="gianca1994" />
 </p>
 
