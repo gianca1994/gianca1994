@@ -11,8 +11,8 @@
 <h1 align="center">Stats</h1>
 
 <p align="center">
-    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&langs_count=9&layout=compact&hide=css,html,makefile,jupyter%20Notebook&theme=vision-friendly-dark" alt="gianca1994" />
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="gianca1994" />
+    <img align="center" height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gianca1994&langs_count=9&layout=compact&hide=css,html,makefile,jupyter%20Notebook&theme=vision-friendly-dark" alt="gianca1994" />
+  <img align="center" height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="gianca1994" />
 </p>
 
 
@@ -20,34 +20,34 @@
 
 <p align="center">
   <a href="https://github.com/AoWeb-Spring-React/aoweb-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AoWeb-Spring-React&repo=aoweb-backend&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AoWeb-Spring-React&repo=aoweb-backend&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/help-chat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=help-chat&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=help-chat&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
     <a href="https://github.com/gianca1994/blackjack-js">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=blackjack-js&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=blackjack-js&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/umcredits">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=umcredits&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=umcredits&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/machine-learning">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=machine-learning&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=machine-learning&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
 <a href="https://github.com/gianca1994/infram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=infram&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=infram&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/computacion-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=computacion-2&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=computacion-2&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/programacion-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=programacion-1&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=programacion-1&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/programacion2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=programacion2&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=programacion2&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
   <a href="https://github.com/gianca1994/software-engineering">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianca1994&repo=software-engineering&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gianca1994&repo=software-engineering&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
 
 
