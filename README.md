@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 welcome</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/giancarlo-galvarini" target="_blank">LinkedIn</a> -
-    <a href="gianca9405@gmail.com" target="_blank">Gmail</a> -
+    <a href="/">gianca9405@gmail.com</a> -
     <a href="https://www.instagram.com/galvarinig" target="_blank">Instagram</a>
 </p>
 
