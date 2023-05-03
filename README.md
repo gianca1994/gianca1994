@@ -11,8 +11,8 @@
 <h1 align="center">Stats</h1>
 
 <p align="center">
-    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&langs_count=8&layout=compact&hide=css,html,makefile,jupyter%20notebook&theme=vision-friendly-dark" alt="gianca1994" />	
-  <img align="center" height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide=stars" alt="gianca1994" />
+    <img align="center" width="325rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&langs_count=8&layout=compact&hide=css,html,makefile,jupyter%20notebook&theme=vision-friendly-dark" alt="gianca1994" />	
+  <img align="center" width="600rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide=stars" alt="gianca1994" />
 </p>
 
 
