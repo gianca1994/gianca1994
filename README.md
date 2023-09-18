@@ -7,12 +7,18 @@
 </p>
 
 </br>
-  
+
 <h1 align="center">Stats</h1>
 <p align="center">
-    <img width="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&langs_count=8&layout=compact&hide=css,html,makefile,jupyter%20notebook&theme=vision-friendly-dark" alt="gianca1994" />
-    <img width="525" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide=stars" alt="gianca1994" />
+    <img width="325" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianca1994&langs_count=8&layout=compact&hide=css,html,makefile,jupyter%20notebook&theme=vision-friendly-dark" alt="gianca1994" />
+    <img width="500" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gianca1994&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide=stars" alt="gianca1994" />
 </p>
+
+<div align="center">
+	
+![](https://github-readme-streak-stats.herokuapp.com/?user=gianca1994&theme=vision-friendly-dark&hide_border=false)	
+</div>
+
 
 
 </br><h1 align="center">Repositories</h1>
