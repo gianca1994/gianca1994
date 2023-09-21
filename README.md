@@ -19,6 +19,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gianca1994&theme=vision-friendly-dark&hide_border=false)	
 </div>
 
+<img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gianca1994&theme=vision-friendly-dark&hide_border=false" alt="gianca1994" />
+
+
 
 
 </br><h1 align="center">Repositories</h1>
